@@ -36,10 +36,17 @@ http://username:password@proxyhost:port
 socks5://proxyhost:port
 http://proxyhost:port
 ```
-Then start the container:
+Then start the container
+
+- Linux:
 
 ```bash
 docker run -d -e APP_USER=user@mail.com -e APP_PASS=password -v ./proxies.txt:/app/proxies.txt overtrue/gradient-bot
+```
+- Windows CMD:
+```bash
+docker run -d -e APP_USER=user@mail.com -e APP_PASS=password -v %cd%\proxies.txt:/app/proxies.txt overtrue/gradient-bot
+
 ```
 
 Note: Please replace the `proxies.txt` path with the correct path, or `cd` to the directory where `proxies.txt` is located before executing the docker run command.
