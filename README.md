@@ -14,8 +14,13 @@ To install requirements, run command:
 npm install 
 ```
 Testing the proxy, run command:
+- Linux:
 ```bash
 sudo APP_USER=example@gmail.com APP_PASS='password' PROXY=socks5://username@password@proxyhost:port node app.js
+```
+- Windows:
+```bash
+set APP_USER=example@gmail.com && set APP_PASS=password && set PROXY=socks5://username:password@proxyhost:port && node app.js
 ```
 
 ## Start with Docker
