@@ -4,7 +4,7 @@
 - Purchase proxies: [https://app.proxy-cheap.com](https://app.proxy-cheap.com/r/JysUiH)
 - Usage document: [https://mirror.xyz](https://mirror.xyz/0xe8224b3E9C8d35b34D088BB5A216B733a5A6D9EA/jFFUw6Ew3rWThwMxXMoLaa1UMnV8axoQoMVN0EKEthY)
 
-## Start a separate proxy for testing use node js
+## Start a separate proxy for testing use node js (OPTIONAL)
 #### Install Node.js LTS
 - [Windows 32-Bit](https://nodejs.org/dist/v20.9.0/node-v20.9.0-x86.msi) | [Windows 64-Bit](https://nodejs.org/dist/v20.9.0/node-v20.9.0-x64.msi)
 - Linux: [Ubuntu/Debian](https://medium.com/@nsidana123/before-the-birth-of-of-node-js-15ee9262110c)
@@ -23,7 +23,7 @@ sudo APP_USER=example@gmail.com APP_PASS='password' PROXY=socks5://username@pass
 set APP_USER=example@gmail.com && set APP_PASS=password && set PROXY=socks5://username:password@proxyhost:port && node app.js
 ```
 
-## Start with Docker
+## Start with Docker (MAIN BOT RUN TUTORIAL)
 #### Install Docker
 - [Windows](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe)  | Tutorial : [English](https://medium.com/@supportfly/how-to-install-docker-on-windows-bead8c658a68) | [Indonesian](https://www.youtube.com/watch?v=u5hpc7jEx1U&ab_channel=BimaPutraPratama)
 - Linux: [Ubuntu/Debian](https://phoenixnap.com/kb/install-docker-on-ubuntu-20-04) | [Video Tutorial](https://www.youtube.com/watch?v=1_l-TNKPw-0&ab_channel=FarukAlam-AI)
