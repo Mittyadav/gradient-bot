@@ -45,7 +45,7 @@ docker run -d -e APP_USER=user@mail.com -e APP_PASS=password -v ./proxies.txt:/a
 ```
 - Windows CMD:
 ```bash
-docker run -d -e APP_USER=user@mail.com -e APP_PASS=password -v %cd%\proxies.txt:/app/proxies.txt overtrue/gradient-bot
+docker run -d -e APP_USER=user@mail.com -e APP_PASS=password -v C:/Folder/Path/To/proxies.txt:/app/proxies.txt overtrue/gradient-bot
 
 ```
 
