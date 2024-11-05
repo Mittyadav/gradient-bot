@@ -28,6 +28,10 @@ set APP_USER=example@gmail.com && set APP_PASS=password && set PROXY=socks5://us
 - [Windows](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe)  | Tutorial : [English](https://medium.com/@supportfly/how-to-install-docker-on-windows-bead8c658a68) | [Indonesian](https://www.youtube.com/watch?v=u5hpc7jEx1U&ab_channel=BimaPutraPratama)
 - Linux: [Ubuntu/Debian](https://phoenixnap.com/kb/install-docker-on-ubuntu-20-04) | [Video Tutorial](https://www.youtube.com/watch?v=1_l-TNKPw-0&ab_channel=FarukAlam-AI)
 
+Pull the docker image:
+```bash
+docker image pull overtrue/gradient-bot
+```
 
 Save the proxy address to the `proxies.txt` file in the format, example:
 ```bash
