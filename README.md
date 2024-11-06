@@ -5,6 +5,7 @@
 - Usage document: [https://mirror.xyz](https://mirror.xyz/0xe8224b3E9C8d35b34D088BB5A216B733a5A6D9EA/jFFUw6Ew3rWThwMxXMoLaa1UMnV8axoQoMVN0EKEthY)
 
 ## Start a separate proxy for testing use node js (OPTIONAL)
+> This is OPTIONAL, just for running single proxy and testing proxies
 #### Install Node.js LTS
 - [Windows 32-Bit](https://nodejs.org/dist/v20.9.0/node-v20.9.0-x86.msi) | [Windows 64-Bit](https://nodejs.org/dist/v20.9.0/node-v20.9.0-x64.msi)
 - Linux: [Ubuntu/Debian](https://medium.com/@nsidana123/before-the-birth-of-of-node-js-15ee9262110c)
@@ -30,7 +31,7 @@ set APP_USER=example@gmail.com && set APP_PASS=password && set PROXY=socks5://us
 
 Pull the docker image:
 ```bash
-docker image pull overtrue/gradient-bot
+docker pull overtrue/gradient-bot:latest
 ```
 
 Save the proxy address to the `proxies.txt` file in the format, example:
