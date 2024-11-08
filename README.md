@@ -49,9 +49,9 @@ Then start the container
 docker run -d -e APP_USER=user@mail.com -e APP_PASS=password -v ./proxies.txt:/app/proxies.txt overtrue/gradient-bot
 ```
 - Windows CMD:
+>Change C:/Folder/Path/To/proxies.txt to your proxies.txt destination path
 ```bash
 docker run -d -e APP_USER=user@mail.com -e APP_PASS=password -v C:/Folder/Path/To/proxies.txt:/app/proxies.txt overtrue/gradient-bot
-
 ```
 
 Note: Please replace the `proxies.txt` path with the correct path, or `cd` to the directory where `proxies.txt` is located before executing the docker run command.
