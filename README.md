@@ -1,7 +1,7 @@
 # Gradient Network Bot
 
 - Register: [https://app.gradient.network](https://app.gradient.network/signup?code=NK93Y3)
-- Purchase proxies: [https://app.proxy-cheap.com](https://app.proxy-cheap.com/r/JysUiH)
+- Purchase proxies: [https://app.proxy-cheap.com](https://app.proxy-cheap.com/r/JysUiH) | other Good Premium Proxies (paid): [922proxy](https://www.922proxy.com/register?inviter_code=d03d4fed), [infatica](https://dashboard.infatica.io/aff.php?aff=544), [webshare](https://www.webshare.io/?referral_code=p7k7whpdu2jg)
 - Usage document: [https://mirror.xyz](https://mirror.xyz/0xe8224b3E9C8d35b34D088BB5A216B733a5A6D9EA/jFFUw6Ew3rWThwMxXMoLaa1UMnV8axoQoMVN0EKEthY)
 
 ## Start with Node.js for single proxy usage
