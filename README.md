@@ -7,7 +7,7 @@
 ## Start with Node.js for single proxy usage
 > This is OPTIONAL if you want to test a single proxy and check its support for Gradient or not
 #### Install Node.js LTS
-- [Windows 32-Bit](https://nodejs.org/dist/v20.9.0/node-v20.9.0-x86.msi) | [Windows 64-Bit](https://nodejs.org/dist/v20.9.0/node-v20.9.0-x64.msi)
+- [v20.18.0](https://nodejs.org/dist/v20.18.0/node-v20.18.0-x64.msi)
 - Linux: [Ubuntu/Debian](https://medium.com/@nsidana123/before-the-birth-of-of-node-js-15ee9262110c)
 
 To install requirements, run command:
